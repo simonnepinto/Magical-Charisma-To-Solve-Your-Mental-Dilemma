@@ -60,7 +60,7 @@ This project is licensed under the GPL-3.0 License - see the [LICENSE](./LICENSE
 
 ## For the Future 
 
-If you can help us with these. Please don't hesitate to open a [Pull Request](https://github.com/vigneshshettyin/Magical-Charisma-To-Solve-Your-Mental-Dilemma/pulls).
+If you can help us with these. Please don't hesitate to open a [Pull Request](https://github.com/simonnepinto/Magical-Charisma-To-Solve-Your-Mental-Dilemma/pulls).
 
 ## Project Maintainers 🚧
 
